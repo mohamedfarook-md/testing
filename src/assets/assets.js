@@ -1,0 +1,33 @@
+
+
+import welcome from "./images/welcome-img.jpg";
+import flee1 from "./images/fleet1.png";
+import flee2 from "./images/fleet2.png";
+import flee3 from "./images/fleet3.png";
+import bg1 from "./images/bg1.jpg";
+import bg2 from "./images/bg2";
+import cab1 from "./images/cab-service-icon1.png";
+import cab2 from "./images/cab-service-icon2.png";
+import cab3 from "./images/cab-service-icon3.png";
+import cab4 from "./images/cab-service-icon4.png";
+import cab5 from "./images/cab-service-icon5.png";
+import deal1 from "./images/deals-img1.png";
+import deal2 from "./images/deals-img2.png";
+import deal3 from "./images/deals-img3.png";
+import bg5 from "./images/bg5.jpg";
+import img1 from "./images/img1.jpeg";
+import img2 from "./images/img2.jpeg";
+import img3 from "./images/img3.png";
+import img4 from "./images/img4.jpeg";
+import img5 from "./images/img5.jpeg";
+import news1 from "./images/news_img1.jpg";
+import news2 from "./images/news_img2.jpg";
+import service1 from "./images/service1.png";
+import service2 from "./images/service2.png";
+import service3 from "./images/service3.png";
+import image1 from "./images/images.jpeg";
+import image2 from "./images/image2.png";
+import image4 from "./images/image4.png";
+import image5 from "./images/image5.png";
+import one from "./images/one.webp ";
+import driver from "./images/driver.jpg";

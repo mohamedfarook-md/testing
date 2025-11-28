@@ -1,0 +1,54 @@
+{
+  "current": [
+    {
+      "name": "Anil Mehta",
+      "initials": "AM",
+      "time": "Started 15 mins ago",
+      "pickup": "Whitefield, Bangalore",
+      "drop": "Marathahalli, Bangalore",
+      "amount": 320,
+      "status": "Ongoing",
+      "distance": "12.4 km",
+      "duration": "28 mins",
+      "rating": 4.9
+    }
+  ],
+  "history": [
+    {
+      "name": "Sarah Kumar",
+      "initials": "SK",
+      "time": "Nov 10, 2025 - 2:30 PM",
+      "pickup": "MG Road, Bangalore",
+      "drop": "Electronic City, Bangalore",
+      "amount": 450,
+      "status": "Completed",
+      "distance": "18.2 km",
+      "duration": "42 mins",
+      "rating": 4.8
+    },
+    {
+      "name": "Priya Malhotra",
+      "initials": "PM",
+      "time": "Nov 10, 2025 - 10:30 AM",
+      "pickup": "HSR Layout, Bangalore",
+      "drop": "Kempegowda Airport, Bangalore",
+      "amount": 550,
+      "status": "Completed",
+      "distance": "42.5 km",
+      "duration": "1 hr 15 mins",
+      "rating": 5.0
+    },
+    {
+      "name": "Rahul Kumar",
+      "initials": "RK",
+      "time": "Nov 10, 2025 - 7:45 AM",
+      "pickup": "Malleshwaram, Bangalore",
+      "drop": "Rajajinagar, Bangalore",
+      "amount": 220,
+      "status": "Cancelled",
+      "distance": "6.8 km",
+      "duration": "18 mins",
+      "rating": 4.2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "cards": [
+    {
+      "title": "Notifications",
+      "icon": "fa-bell",
+      "items": [
+        { "title": "Ride Requests", "desc": "Get notified when new ride requests come in", "enabled": true },
+        { "title": "Earnings Updates", "desc": "Receive notifications about your earnings", "enabled": true },
+        { "title": "Promotional Offers", "desc": "Get updates about bonuses and incentives", "enabled": false }
+      ]
+    },
+    {
+      "title": "Privacy & Security",
+      "icon": "fa-shield-alt",
+      "items": [
+        { "title": "Share Location", "desc": "Allow passengers to track your location during rides", "enabled": true },
+        { "title": "Two-Factor Authentication", "desc": "Add an extra layer of security to your account", "enabled": false },
+        { "title": "Show Phone Number", "desc": "Display your phone number to passengers", "enabled": true }
+      ]
+    },
+    {
+      "title": "Preferences",
+      "icon": "fa-cog",
+      "items": [
+        { "title": "Auto Accept Rides", "desc": "Automatically accept rides matching your preferences", "enabled": false },
+        { "title": "Navigation Voice", "desc": "Enable voice guidance during trips", "enabled": true },
+        { "title": "Dark Mode", "desc": "Switch to dark theme for better night visibility", "enabled": false }
+      ]
+    },
+    {
+      "title": "Payment Settings",
+      "icon": "fa-credit-card",
+      "items": [
+        { "title": "Bank Account", "desc": "ICICI Bank - Account ending in 4567", "enabled": true },
+        { "title": "Auto Withdrawal", "desc": "Automatically transfer earnings to your bank account", "enabled": true },
+        { "title": "Withdrawal Threshold", "desc": "Minimum balance: ₹1,000", "enabled": true }
+      ]
+    }
+  ]
+}

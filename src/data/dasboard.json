@@ -1,0 +1,23 @@
+{
+  "driver": {
+    "fullName": "John Driver",
+    "id": "DRV-2584",
+    "initials": "JD",
+    "rating": 4.8
+  },
+  "stats": [
+    { "label": "Today's Trips", "value": 12, "icon": "fa-clipboard-list" },
+    { "label": "Today's Earnings", "value": "₹2,450", "icon": "fa-rupee-sign", "variant": "green" },
+    { "label": "Hours Online", "value": "8.5h", "icon": "fa-clock", "variant": "blue" },
+    { "label": "Rating", "value": 4.8, "icon": "fa-star", "variant": "purple" }
+  ],
+  "charts": {
+    "week": { "labels": ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"], "values": [1200,1500,1300,1700,1900,1600,2200] },
+    "month": { "labels": ["Week 1","Week 2","Week 3","Week 4"], "values": [8000,9200,10800,10500] },
+    "year": { "labels": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"], "values": [32000,34000,41000,38000,45000,47000,50000,52000,49000,46000,43000,48000] }
+  },
+  "newRides": [
+    { "customer": "Sarah Kumar", "initials": "SK", "timeAgo": "2 mins ago", "pickup": "MG Road, Bangalore", "drop": "Electronic City, Bangalore", "fare": 450 },
+    { "customer": "Raj Patel", "initials": "RP", "timeAgo": "5 mins ago", "pickup": "Koramangala, Bangalore", "drop": "Indiranagar, Bangalore", "fare": 280 }
+  ]
+}

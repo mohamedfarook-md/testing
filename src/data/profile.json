@@ -1,0 +1,26 @@
+{
+  "fullName": "John Driver",
+  "id": "DRV-2584",
+  "initials": "JD",
+  "rating": 4.8,
+  "stats": [
+    { "label": "Total Trips", "value": "1,247" },
+    { "label": "Acceptance", "value": "98%" },
+    { "label": "Total Earned", "value": "₹1.2L" },
+    { "label": "Experience", "value": "2.5yr" }
+  ],
+  "personal": [
+    { "label": "Full Name", "value": "John Driver", "icon": "fa-user" },
+    { "label": "Email", "value": "john.driver@rydmate.com", "icon": "fa-envelope" },
+    { "label": "Phone", "value": "+91 98765 43210", "icon": "fa-phone" },
+    { "label": "Date of Birth", "value": "15 March, 1990", "icon": "fa-calendar" },
+    { "label": "Address", "value": "Koramangala, Bangalore", "icon": "fa-map-marker-alt" }
+  ],
+  "vehicle": [
+    { "label": "Vehicle Model", "value": "Honda City 2020", "icon": "fa-car" },
+    { "label": "Vehicle Number", "value": "KA 01 AB 1234", "icon": "fa-id-card" },
+    { "label": "Vehicle Color", "value": "Silver", "icon": "fa-palette" },
+    { "label": "License Number", "value": "KA0120200012345", "icon": "fa-certificate" },
+    { "label": "License Expiry", "value": "15 March, 2028", "icon": "fa-calendar-check" }
+  ]
+}

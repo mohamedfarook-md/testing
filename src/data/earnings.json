@@ -1,0 +1,18 @@
+{
+  "cards": [
+    { "label": "Today's Earnings", "amount": "₹2,450", "icon": "fa-calendar-day", "borderColor": "#e63946" },
+    { "label": "This Week", "amount": "₹12,800", "icon": "fa-calendar-week", "borderColor": "#10b981" },
+    { "label": "This Month", "amount": "₹48,500", "icon": "fa-calendar-alt", "borderColor": "#3b82f6" }
+  ],
+  "charts": {
+    "week": { "labels": ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"], "values": [1200,1500,1300,1700,1900,1600,2200] },
+    "month": { "labels": ["Week 1","Week 2","Week 3","Week 4"], "values": [8000,9200,10800,10500] },
+    "year": { "labels": ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"], "values": [32000,34000,41000,38000,45000,47000,50000,52000,49000,46000,43000,48000] }
+  },
+  "transactions": [
+    { "title": "Ride Payment", "desc": "Trip #RIDE-001 - Sarah Kumar", "amount": "+₹450", "timeAgo": "2 hours ago", "icon": "fa-plus", "iconBg": "#fff5f6", "iconColor": "#e63946", "amountColor": "#e63946" },
+    { "title": "Ride Payment", "desc": "Trip #RIDE-002 - Priya Malhotra", "amount": "+₹550", "timeAgo": "4 hours ago", "icon": "fa-plus", "iconBg": "#fff5f6", "iconColor": "#e63946", "amountColor": "#e63946" },
+    { "title": "Bonus Earned", "desc": "Daily completion bonus", "amount": "+₹200", "timeAgo": "Yesterday", "icon": "fa-gift", "iconBg": "#d1fae5", "iconColor": "#059669", "amountColor": "#059669" },
+    { "title": "Withdrawal", "desc": "Bank transfer to ICICI ***4567", "amount": "-₹5,000", "timeAgo": "2 days ago", "icon": "fa-arrow-up", "iconBg": "#dbeafe", "iconColor": "#2563eb", "amountColor": "#2563eb" }
+  ]
+}
